@@ -1,6 +1,6 @@
 # Unity-Chan-3D-shooting-game
 Thank you for your reading!
-I'm KemoNize.
+I'm .
 
 I created this game for my school festival in 2016.
 
