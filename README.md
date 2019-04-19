@@ -9,4 +9,4 @@ So you can download and play this game but you must not sell and distribute it f
 
 When you want to play this game,you need some file and directory,"sample_0.07_Data" and "sample_0.07.exe".
 
-If you want to use these CSharp scripts as a reference,you can download them.
+If you want to use these C# scripts as a reference,you can download them.
